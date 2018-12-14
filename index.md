@@ -7,7 +7,7 @@ The following links are to the design documents thatI have been a part of and wr
 ### [Design for Understanding](https://medium.com/@grantferguson17/design-for-understanding-design-document-55627f75bb76)
 ### [Design for Tension](https://medium.com/@grantferguson17/design-for-tension-af1470cd233c)
 ### [Design for Wellbeing](https://medium.com/@grantferguson17/design-for-well-being-610a8be3f199)
-### Design for Another World
+### [Design for Another World](https://medium.com/@hbzico1/design-for-another-world-ab3baaa46f1a)
 
 
 ## Final Design Manifesto
