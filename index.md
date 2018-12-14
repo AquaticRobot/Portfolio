@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Human-Computer Interaction Final Portfolio
 
-You can use the [editor on GitHub](https://github.com/AquaticRobot/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The following links are to the design documents thatI have been a part of and written this term, for most or all of the different projects that we did during the class.
 
 ### Markdown
 
